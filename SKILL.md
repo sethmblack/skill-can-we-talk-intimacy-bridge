@@ -1,11 +1,9 @@
 ---
 name: can-we-talk-intimacy-bridge
-description: Create confessional intimacy with audience by using conversational gateway
-  phrases to shift from performer to confidante before delivering uncomfortable truths.
-  Based on Joan Rivers' signature tech...
+description: Create confessional intimacy with audience by using conversational gateway phrases to shift from performer to confidante before delivering uncomfortable truths. Based on Joan Rivers' signature tech...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - can-we-talk-intimacy-bridge
