@@ -3,8 +3,9 @@ name: can-we-talk-intimacy-bridge
 description: Create confessional intimacy with audience by using conversational gateway phrases to shift from performer to confidante before delivering uncomfortable truths. Based on Joan Rivers' signature tech...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3528
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - can-we-talk-intimacy-bridge
 - comedy
